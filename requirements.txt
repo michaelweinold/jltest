@@ -1,2 +1,5 @@
 jupyterlab~=3.5.1
 jupyterlite==0.1.0b18
+# brightway packages
+bw2data==3.6.6
+bw2io==0.8.8
